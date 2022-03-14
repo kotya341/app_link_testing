@@ -1,0 +1,61 @@
+
+[
+
+    [
+        {
+            "relation": [
+                "delegate_permission/common.handle_all_urls"
+            ],
+            "target": {
+                "namespace": "android_app",
+                "package_name": "de.porsche.one",
+                "sha256_cert_fingerprints": [
+                    "CC:A8:CC:40:0D:25:B3:9E:F1:96:D5:77:09:42:21:AF:C4:17:F2:6C:89:D3:36:24:F8:91:CD:3D:62:2B:39:8F"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "relation": [
+                "delegate_permission/common.handle_all_urls"
+            ],
+            "target": {
+                "namespace": "android_app",
+                "package_name": "com.porsche.one",
+                "sha256_cert_fingerprints": [
+                    "CC:A8:CC:40:0D:25:B3:9E:F1:96:D5:77:09:42:21:AF:C4:17:F2:6C:89:D3:36:24:F8:91:CD:3D:62:2B:39:8F"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "relation": [
+                "delegate_permission/common.handle_all_urls"
+            ],
+            "target": {
+                "namespace": "android_app",
+                "package_name": "de.porsche.one.dev",
+                "sha256_cert_fingerprints": [
+                    "73:BD:0C:FD:C1:A3:1B:42:8B:5C:A6:3A:92:59:8D:E4:8B:28:F5:3E:A2:2A:25:DC:4E:A6:FF:77:12:75:64:8F"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "relation": [
+                "delegate_permission/common.handle_all_urls"
+            ],
+            "target": {
+                "namespace": "android_app",
+                "package_name": "de.porsche.product.beta",
+                "sha256_cert_fingerprints": [
+                    "86:88:56:36:DE:6E:12:CB:E8:5B:FA:6B:4C:33:C7:C2:38:AD:18:EB:F8:46:AB:69:4D:90:1F:14:F7:AC:F1:75"
+                ]
+            }
+        }
+    ]
+
+]
